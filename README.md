@@ -1,5 +1,4 @@
-UoE Informatics Timetable
-Android Application
+UoE Informatics Timetable - Android App
 ===
 **1.0 Introduction**
 
